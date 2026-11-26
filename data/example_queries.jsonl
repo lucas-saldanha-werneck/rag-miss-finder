@@ -1,0 +1,14 @@
+{"id": "q01", "query": "how do I roll back a bad deployment", "relevant": ["d01"]}
+{"id": "q02", "query": "how often should API keys be rotated", "relevant": ["d02"]}
+{"id": "q03", "query": "how many daily backup snapshots do we keep", "relevant": ["d03"]}
+{"id": "q04", "query": "when does the on-call engineer get paged", "relevant": ["d04"]}
+{"id": "q05", "query": "what happens after 100 requests per minute", "relevant": ["d06"]}
+{"id": "q06", "query": "can migrations break the old release during deploy", "relevant": ["d07"]}
+{"id": "q07", "query": "how long are audit logs kept", "relevant": ["d10"]}
+{"id": "q08", "query": "how long is a password reset link valid", "relevant": ["d14"]}
+{"id": "q09", "query": "who gets woken up at night when the site is failing", "relevant": ["d04"]}
+{"id": "q10", "query": "can I download my information", "relevant": ["d11"]}
+{"id": "q11", "query": "what do we do after an outage to learn from it", "relevant": ["d12"]}
+{"id": "q12", "query": "how do we test a new capability on a few people first", "relevant": ["d09"]}
+{"id": "q13", "query": "where do secrets like tokens live", "relevant": ["d02"]}
+{"id": "q14", "query": "how fast do we answer important customer requests", "relevant": ["d15"]}

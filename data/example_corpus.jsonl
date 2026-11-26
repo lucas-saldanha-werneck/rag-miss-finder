@@ -1,0 +1,15 @@
+{"id": "d01", "text": "Rolling back a deployment: run the rollback command, then confirm the previous release is serving traffic."}
+{"id": "d02", "text": "Rotate API keys every 90 days. Store keys in the secrets manager, never in the repository."}
+{"id": "d03", "text": "The nightly backup job copies the database to object storage and keeps 14 daily snapshots."}
+{"id": "d04", "text": "Alerts page the on-call engineer when error rate stays above 2 percent for five minutes."}
+{"id": "d05", "text": "Onboarding checklist for new engineers: laptop setup, repository access, first pull request."}
+{"id": "d06", "text": "Rate limiting returns HTTP 429 after 100 requests per minute per API token."}
+{"id": "d07", "text": "Database migrations must be backward compatible so the old release keeps working during a deploy."}
+{"id": "d08", "text": "Invoices are generated on the first day of each month and emailed as PDF to the billing contact."}
+{"id": "d09", "text": "Feature flags let us enable a change for a small share of users before a full launch."}
+{"id": "d10", "text": "Log retention is 30 days for application logs and one year for audit logs."}
+{"id": "d11", "text": "Customers can export their data as CSV from the account settings page."}
+{"id": "d12", "text": "Incident reviews are written within three days and shared with the whole team, without blaming people."}
+{"id": "d13", "text": "Staging mirrors production but uses anonymized data and smaller machines."}
+{"id": "d14", "text": "Password reset links expire after 30 minutes and can be used once."}
+{"id": "d15", "text": "Support tickets marked urgent get a first reply within one hour on weekdays."}
